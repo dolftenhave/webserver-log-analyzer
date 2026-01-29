@@ -2,6 +2,11 @@
 
 A multithreaded webserver log analyzer written in c.
 
+- [Intro](#intro)
+- [Planning](#planning)
+
+## Intro
+
 The purpose of the analyzer is to:
 1. Count requests
 2. Count requests by type
@@ -24,6 +29,10 @@ Top 5 URLs:
 
 Processing time: 1.23s (4 threads)
 ```
+
+## Planning
+
+- [Line Makeup](#line-makeup)
 
 ### Line Makeup
 
