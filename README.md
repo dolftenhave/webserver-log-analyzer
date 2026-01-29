@@ -48,4 +48,6 @@ Each line of the log file consists of these parts.
 **4523**
     The size of the response data.
 
+*[Official apache log structure](https://httpd.apache.org/docs/2.4/logs.html#:~:text=Common,instead,-%2E)*
+
 
